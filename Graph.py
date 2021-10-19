@@ -1,14 +1,5 @@
 """
 This program is to check the paths between cities and shortest path between them using a Graph.
-Graph is a non-linear data structure. It is similar to Tree.
-
-All Trees are Graphs but all Graphs are not Trees.
-Types of Graphs:
-Simple Path: All nodes are distinct Ex: (A,B,C,D,E)
-Closed Path: If path starts and ends with the same Node, it forms a circular path. The nodes can be repeated Ex: (C, E, A, E, G, C)
-
-Connected Graph: If we can reach from one node to another node, it is said to be Connected Graph.
-Cycle: It is a path in which first and last node of the path is same and all the other nodes are distinct.
 """
 
 
